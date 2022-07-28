@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Este proyecto es creado por Nicolas Mahecha Perez
+-------------------------------------------------
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Links para ver:  https://nicolasportafolio.netlify.app/
+-------------------------------------------------------
